@@ -1,0 +1,19 @@
+h1{
+color: blue;
+text-align: center;
+}
+p{
+  color:red;
+}
+div{
+  background-color: grey;
+  width:150px;
+  height:250px;
+  margin:50px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  border: 3px solid black;
+}
